@@ -35,13 +35,13 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] This Assignment is NOT tested. You can use all the desired creativity!
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] The project's file/folder structure should NOT be edited!
-- [ ] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
+- [ x] Fork the project to your github account
+- [ x] Clone the project to your computer
+- [x ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [ x] This Assignment is NOT tested. You can use all the desired creativity!
+- [x ] All the tasks of the "Specific requirements" section MUST be solved
+- [ x] The project's file/folder structure should NOT be edited!
+- [ x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
 - [ ] VSCode IDE MUST have 0 problems listed
 - [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
 - [ ] The code MUST be formatted with Prettier.
@@ -56,25 +56,25 @@ This assignment should prove that a student is able to:
 - [ ] Edit the following files to solve that part of the assignment:
   - [ ] html: `/pages/fancy-robot.html`
   - [ ] css: `/css/fancy-robot.css`
-- [ ] The container for the robot face (face shape) should be positioned/aligned following the rules:
-  - [ ] It should be horizontally centered to the viewport width and height.
+- [ x] The container for the robot face (face shape) should be positioned/aligned following the rules:
+  - [x ] It should be horizontally centered to the viewport width and height.
   - [ ] The container should not overlap the header section.
 - [ ] Style the shape of the robot face to follow the requirements:
-  - [ ] Should be a simple shape (square, circle, oval).
-  - [ ] Should have a border of any style, color and width.
-  - [ ] The face parts should NOT touch the border in their static positions.
-  - [ ] The corners of the face shape should NOT be a straight (right) angle.
+  - [ x] Should be a simple shape (square, circle, oval).
+  - [x ] Should have a border of any style, color and width.
+  - [x ] The face parts should NOT touch the border in their static positions.
+  - [x ] The corners of the face shape should NOT be a straight (right) angle.
 - [ ] Create unique random shapes for the following internal elements of the face:
-  - [ ] Left eye
-  - [ ] Right eye
-  - [ ] Nose
-  - [ ] Mouth
-  - [ ] Teeth/tooth
+  - [x ] Left eye
+  - [ x] Right eye
+  - [ x] Nose
+  - [x ] Mouth
+  - [ x] Teeth/tooth
   - [ ] **!!!Optional** Add any other part you want.
 - [ ] Create unique random shapes for the following external elements of the face:
-  - [ ] Hair style
-  - [ ] Left ear
-  - [ ] Right ear
+  - [ x] Hair style
+  - [ x] Left ear
+  - [ x] Right ear
   - [ ] **!!!Optional** Add any other part you want.
 - [ ] Shapes must follow the guidelines:
   - [ ] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.

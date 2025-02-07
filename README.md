@@ -43,7 +43,7 @@ This assignment should prove that a student is able to:
 - [ x] The project's file/folder structure should NOT be edited!
 - [ x] The index.html file should NOT be edited! The only acceptable change are additional classes added to elements.
 - [ ] VSCode IDE MUST have 0 problems listed
-- [ ] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
+- [ x] The code of the index.html and styles.css should pass the W3C validation (Feel free to use either the "w3c web validator" VSCode extension or the "Online w3c Markup Validation Service")
 - [ ] The code MUST be formatted with Prettier.
 - [ ] Push the changes to the Github repo, when finished.
 - [ ] Submit a .txt file with the Github repo url.
@@ -77,12 +77,12 @@ This assignment should prove that a student is able to:
   - [ x] Right ear
   - [ ] **!!!Optional** Add any other part you want.
 - [ ] Shapes must follow the guidelines:
-  - [ ] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.
+  - [ x] Each shape must be unique. It is permissible to use the same shape for two paired face elements, but they must have different orientations or directions.
   - [ ] Use the following types of shapes:
-    - [ ] At least one square shape
-    - [ ] At least one circle shape
-    - [ ] At least one rectangle shape
-    - [ ] At least one oval shape
+    - [x ] At least one square shape
+    - [ x] At least one circle shape
+    - [ x] At least one rectangle shape
+    - [x ] At least one oval shape
     - [ ] Any other shapes of your choice. You can add additional containers to create a combined shape and additional classes inside the current face part.
   - [ ] At least one shape should have a solid background color chosen from the available [HTML colors](https://www.w3schools.com/html/html_colors.asp).
   - [ ] At least one shape should have a gradient background color chosen from the available [UI gradients](https://uigradients.com/).

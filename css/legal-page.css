@@ -5,6 +5,7 @@
   width: 100%;
   position: fixed;
   top: 0px;
+  z-index:100;
 
 }
 
@@ -20,7 +21,6 @@ main {
   justify-content: right;
   align-items: center;
   margin-top: 200px;
-  overflow: auto;
   padding-bottom: 70px;
 }
 

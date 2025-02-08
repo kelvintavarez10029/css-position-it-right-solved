@@ -87,16 +87,17 @@
   height: 50px;
   border-radius: 20%;
   background-color: honeydew;
-  position: absolute;  position: absolute;
+  position: absolute;
   top: 280px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .robot-tooth {
-
+  background: url('https://picsum.photos/seed/picsum/200/300') no-repeat  center center / cover;
    color: rgb(167, 149, 53);
   font-size: 30px;
+  opacity: .7;
  
 }
 
